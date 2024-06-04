@@ -1,0 +1,43 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="AvaloniaImaginarium.Views.Imaginer">
+	
+	<DockPanel Margin="4">
+		<StackPanel>
+			<Menu>
+				<MenuItem Header="_File">
+					<MenuItem Header="Open Generator" Click="SelectProjectFolder" HotKey="Ctrl+O" InputGesture="Ctrl+O" />
+					<MenuItem Header="Reload Generator" Click="ReloadImaginarium" HotKey="Ctrl+R" InputGesture="Ctrl+R" />
+					<Separator />
+					<MenuItem Header="Quit" Click="Quit" HotKey="Ctrl+Q" InputGesture="Ctrl+Q" />
+				</MenuItem>
+			</Menu>
+			
+				<DockPanel>
+					<StackPanel Orientation="Vertical" Spacing="8" MaxHeight="450">
+						<TextBox
+							DockPanel.Dock="Bottom"
+							Margin="8"
+							x:Name="InputBox"
+							KeyDown="InputBox_OnKeyDown"
+							Watermark="Enter command..."
+							IsVisible="False"
+						/>
+							<TextBox
+								Padding="4" Margin="8 0"
+								x:Name="History"
+								Height="350"
+								TextWrapping="Wrap"
+								IsReadOnly="True"
+								Watermark="Select a generator... (File > Select Generator)"
+							/>
+
+					</StackPanel>
+					</DockPanel>
+				
+		</StackPanel>
+	</DockPanel>
+</UserControl>

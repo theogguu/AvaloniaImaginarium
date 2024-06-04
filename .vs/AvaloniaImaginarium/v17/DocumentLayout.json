@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Steve\\Desktop\\AvaloniaStuff\\AvaloniaImaginarium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51A227E1-366C-4A4B-B270-621905A8D129}|AvaloniaImaginarium\\AvaloniaImaginarium.csproj|c:\\users\\steve\\desktop\\avaloniastuff\\avaloniaimaginarium\\avaloniaimaginarium\\views\\imaginer.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A227E1-366C-4A4B-B270-621905A8D129}|AvaloniaImaginarium\\AvaloniaImaginarium.csproj|solutionrelative:avaloniaimaginarium\\views\\imaginer.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A227E1-366C-4A4B-B270-621905A8D129}|AvaloniaImaginarium\\AvaloniaImaginarium.csproj|c:\\users\\steve\\desktop\\avaloniastuff\\avaloniaimaginarium\\avaloniaimaginarium\\imaginariumresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A227E1-366C-4A4B-B270-621905A8D129}|AvaloniaImaginarium\\AvaloniaImaginarium.csproj|solutionrelative:avaloniaimaginarium\\imaginariumresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A227E1-366C-4A4B-B270-621905A8D129}|AvaloniaImaginarium\\AvaloniaImaginarium.csproj|c:\\users\\steve\\desktop\\avaloniastuff\\avaloniaimaginarium\\avaloniaimaginarium\\userpreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A227E1-366C-4A4B-B270-621905A8D129}|AvaloniaImaginarium\\AvaloniaImaginarium.csproj|solutionrelative:avaloniaimaginarium\\userpreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A227E1-366C-4A4B-B270-621905A8D129}|AvaloniaImaginarium\\AvaloniaImaginarium.csproj|c:\\users\\steve\\desktop\\avaloniastuff\\avaloniaimaginarium\\avaloniaimaginarium\\views\\imaginer.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{51A227E1-366C-4A4B-B270-621905A8D129}|AvaloniaImaginarium\\AvaloniaImaginarium.csproj|solutionrelative:avaloniaimaginarium\\views\\imaginer.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A227E1-366C-4A4B-B270-621905A8D129}|AvaloniaImaginarium\\AvaloniaImaginarium.csproj|c:\\users\\steve\\desktop\\avaloniastuff\\avaloniaimaginarium\\avaloniaimaginarium\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A227E1-366C-4A4B-B270-621905A8D129}|AvaloniaImaginarium\\AvaloniaImaginarium.csproj|solutionrelative:avaloniaimaginarium\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A227E1-366C-4A4B-B270-621905A8D129}|AvaloniaImaginarium\\AvaloniaImaginarium.csproj|c:\\users\\steve\\desktop\\avaloniastuff\\avaloniaimaginarium\\avaloniaimaginarium\\htmltextformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A227E1-366C-4A4B-B270-621905A8D129}|AvaloniaImaginarium\\AvaloniaImaginarium.csproj|solutionrelative:avaloniaimaginarium\\htmltextformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A227E1-366C-4A4B-B270-621905A8D129}|AvaloniaImaginarium\\AvaloniaImaginarium.csproj|c:\\users\\steve\\desktop\\avaloniastuff\\avaloniaimaginarium\\avaloniaimaginarium\\avaloniaimaginarium.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51A227E1-366C-4A4B-B270-621905A8D129}|AvaloniaImaginarium\\AvaloniaImaginarium.csproj|solutionrelative:avaloniaimaginarium\\avaloniaimaginarium.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Imaginer.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Steve\\Desktop\\AvaloniaStuff\\AvaloniaImaginarium\\AvaloniaImaginarium\\Views\\Imaginer.axaml.cs",
+              "RelativeDocumentMoniker": "AvaloniaImaginarium\\Views\\Imaginer.axaml.cs",
+              "ToolTip": "C:\\Users\\Steve\\Desktop\\AvaloniaStuff\\AvaloniaImaginarium\\AvaloniaImaginarium\\Views\\Imaginer.axaml.cs",
+              "RelativeToolTip": "AvaloniaImaginarium\\Views\\Imaginer.axaml.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAADwv4AAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:55:05.139Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Imaginer.axaml",
+              "DocumentMoniker": "C:\\Users\\Steve\\Desktop\\AvaloniaStuff\\AvaloniaImaginarium\\AvaloniaImaginarium\\Views\\Imaginer.axaml",
+              "RelativeDocumentMoniker": "AvaloniaImaginarium\\Views\\Imaginer.axaml",
+              "ToolTip": "C:\\Users\\Steve\\Desktop\\AvaloniaStuff\\AvaloniaImaginarium\\AvaloniaImaginarium\\Views\\Imaginer.axaml",
+              "RelativeToolTip": "AvaloniaImaginarium\\Views\\Imaginer.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T22:34:34.161Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserPreferences.cs",
+              "DocumentMoniker": "C:\\Users\\Steve\\Desktop\\AvaloniaStuff\\AvaloniaImaginarium\\AvaloniaImaginarium\\UserPreferences.cs",
+              "RelativeDocumentMoniker": "AvaloniaImaginarium\\UserPreferences.cs",
+              "ToolTip": "C:\\Users\\Steve\\Desktop\\AvaloniaStuff\\AvaloniaImaginarium\\AvaloniaImaginarium\\UserPreferences.cs",
+              "RelativeToolTip": "AvaloniaImaginarium\\UserPreferences.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:53:20.513Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImaginariumResponses.cs",
+              "DocumentMoniker": "C:\\Users\\Steve\\Desktop\\AvaloniaStuff\\AvaloniaImaginarium\\AvaloniaImaginarium\\ImaginariumResponses.cs",
+              "RelativeDocumentMoniker": "AvaloniaImaginarium\\ImaginariumResponses.cs",
+              "ToolTip": "C:\\Users\\Steve\\Desktop\\AvaloniaStuff\\AvaloniaImaginarium\\AvaloniaImaginarium\\ImaginariumResponses.cs",
+              "RelativeToolTip": "AvaloniaImaginarium\\ImaginariumResponses.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T21:42:51.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HtmlTextFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\Steve\\Desktop\\AvaloniaStuff\\AvaloniaImaginarium\\AvaloniaImaginarium\\HtmlTextFormatter.cs",
+              "RelativeDocumentMoniker": "AvaloniaImaginarium\\HtmlTextFormatter.cs",
+              "ToolTip": "C:\\Users\\Steve\\Desktop\\AvaloniaStuff\\AvaloniaImaginarium\\AvaloniaImaginarium\\HtmlTextFormatter.cs",
+              "RelativeToolTip": "AvaloniaImaginarium\\HtmlTextFormatter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:59:28.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AvaloniaImaginarium.csproj",
+              "DocumentMoniker": "C:\\Users\\Steve\\Desktop\\AvaloniaStuff\\AvaloniaImaginarium\\AvaloniaImaginarium\\AvaloniaImaginarium.csproj",
+              "RelativeDocumentMoniker": "AvaloniaImaginarium\\AvaloniaImaginarium.csproj",
+              "ToolTip": "C:\\Users\\Steve\\Desktop\\AvaloniaStuff\\AvaloniaImaginarium\\AvaloniaImaginarium\\AvaloniaImaginarium.csproj",
+              "RelativeToolTip": "AvaloniaImaginarium\\AvaloniaImaginarium.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T21:11:29.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Steve\\Desktop\\AvaloniaStuff\\AvaloniaImaginarium\\AvaloniaImaginarium\\Views\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "AvaloniaImaginarium\\Views\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\Steve\\Desktop\\AvaloniaStuff\\AvaloniaImaginarium\\AvaloniaImaginarium\\Views\\MainWindow.axaml.cs",
+              "RelativeToolTip": "AvaloniaImaginarium\\Views\\MainWindow.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:05:16.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
